@@ -583,12 +583,6 @@ namespace Html
 
             return html;
         }
-
-
-        private static int Sum(int a, int b)
-        {
-            return a + b;
-        }
     }
 
 #pragma warning disable CS8618
